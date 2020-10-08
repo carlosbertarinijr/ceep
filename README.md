@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### React:
+Understanding how the library works
+ - Course Training: https://cursos.alura.com.br/course/react-js
+ - Instructor: Ricardo Bugan Debs Linkeding( 'https://www.linkedin.com/in/ricardo-bugan-b0581379/' )
 
 ## Available Scripts
 
@@ -66,3 +70,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
